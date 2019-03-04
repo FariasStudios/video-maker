@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FariasStudios/video-maker/issues"
   },
-  "homepage": "https://github.com/FariasStudios/video-maker#readme"
+  "homepage": "https://github.com/FariasStudios/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
